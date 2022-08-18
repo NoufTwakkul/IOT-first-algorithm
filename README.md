@@ -6,5 +6,5 @@ first task of IOT (writting the first algorithm to start up the ESP32 peice)
 4-write the first code to start up the piece (wifi scan)
 
 secned task (trying the TTS website)
-1-go to the (link) 
+1-go to the (https://github.com/NoufTwakkul/IOT-first-algorithm/issues/1)
 2-speak
